@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS6.0-Console-PlayFabSamples", "CS6.0-Console-PlayFabSamples\CS6.0-Console-PlayFabSamples.csproj", "{0483275E-C165-4632-8600-52F5BA8B469A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS6.0-AzureFunctions-CloudScript", "CS6.0-AzureFunctions-CloudScript\CS6.0-AzureFunctions-CloudScript.csproj", "{05A26836-AF41-4D5F-AFFE-555956D18E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0483275E-C165-4632-8600-52F5BA8B469A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0483275E-C165-4632-8600-52F5BA8B469A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0483275E-C165-4632-8600-52F5BA8B469A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0483275E-C165-4632-8600-52F5BA8B469A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A26836-AF41-4D5F-AFFE-555956D18E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A26836-AF41-4D5F-AFFE-555956D18E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A26836-AF41-4D5F-AFFE-555956D18E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A26836-AF41-4D5F-AFFE-555956D18E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F07BE78-910E-486E-8A3C-9EE3E95116BB}
+	EndGlobalSection
+EndGlobal
